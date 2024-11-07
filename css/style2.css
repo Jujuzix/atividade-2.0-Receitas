@@ -89,3 +89,32 @@ h1{
     text-align: end;
     color: #830606;
 }
+
+/* Css Rodape*/
+footer {
+	background-color: #7e7d7d;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+p{
+    font-size: 15px;
+}
