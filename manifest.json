@@ -1,0 +1,16 @@
+{
+    "name": "Atividade-2.0-Receitas",
+    "short_name":"Atividade-2.0-Receitas",
+    "icons": [
+        {
+        "src": "images/logo.png",
+        "sizes": "256x256",
+        "type": "image/png"
+        }
+    ],
+"lang": "pr-br",
+"start_url": "/index.html",
+"display": "standalone",
+"background_color": "white",
+"theme_color": "white"
+}
