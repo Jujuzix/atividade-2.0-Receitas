@@ -2,6 +2,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .container {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
     width: 100%;
     max-width: 100%;
     margin: 0 auto;
@@ -58,12 +59,12 @@ header {
     text-decoration: none;
     padding: 10px 15px;
     display: inline-block;
-    transition: 0.5s;
+    transition: 0.8s;
 }
 
 .nav-links li a:hover {
-    background-color: #7e3535;
-    color: #fff;
+    background-color: #ffffff;
+    color: #830606;
 }
 
 .btn {
